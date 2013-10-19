@@ -7,14 +7,14 @@ This is my repository for code that I'm developing to implement behavior based r
 
 Behavior Based Robotics:
 ========================
-Behavior based robotics seeks to build seemingly intelligent robots based on designing simple behaviors that interact to have complex emergement total behaviors. My code is inspired by the Rodney Brooks paper on the subsumption architecture \[1\] but significantly different because it's written in C vs. his LISP programs.
+Behavior based robotics seeks to build seemingly intelligent robots based on designing simple behaviors that interact to have complex emergement total behaviors. My code is inspired by the Rodney Brooks paper on the subsumption architecture \[Brooks 1\] but significantly different because it's written in C vs. his LISP programs.
 
-The different levels of competency come from a Rodney Brooks paper \[1\]:
-  0. Level 0: Avoid contact with objects (stationary and moving objects)
-  1. Level 1: Wander aimlessly without running into things
-  2. Level 2: Explore the world by driving towards places that are seen in the distance as reachable
-  3. Level 3: Build a map of the world and plan routes from place to place
-  ...
+The different levels of competency come from a Rodney Brooks paper \[Brooks 1\]:
+  * Level 0: Avoid contact with objects (stationary and moving objects)
+  * Level 1: Wander aimlessly without running into things
+  * Level 2: Explore the world by driving towards places that are seen in the distance as reachable
+  * Level 3: Build a map of the world and plan routes from place to place
+  * ...
 
 Code Description:
 =================
