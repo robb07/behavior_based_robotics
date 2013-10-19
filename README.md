@@ -20,8 +20,8 @@ Sources:
 ========
 This is original code but it is heavily inspired by the following sources:
 
-Rodney Brooks:
---------------
+###Rodney Brooks:
+
   Brooks, R. A. "A Robust Layered Control System for a Mobile Robot", IEEE Journal of Robotics and 
   Automation, Vol. 2, No. 1, March 1986, pp. 14–23; also MIT AI Memo 864, September 1985.
   
@@ -33,8 +33,8 @@ Rodney Brooks:
   http://people.csail.mit.edu/brooks/publications.html
 
 
-Jon Connell:
-------------
+###Jon Connell:
+
   "A Colony Architecture for an Artificial Creature", J. Connell, Ph.D thesis, MIT AI Lab 1989, available 
   as MIT AITR-1151 also in book form as Minimalist Mobile Robotics, Academic Press, 1990.
   
@@ -46,12 +46,12 @@ Jon Connell:
   
   http://researcher.watson.ibm.com/researcher/view.php?person=us-jconnell
 
-Ronald C. Arkin:
-----------------
+###Ronald C. Arkin:
+
   Behavior-Based Robotics (Intelligent Robotics and Autonomous Agents), R.C. Arkin 1998
 
-Magnus Egerstedt:
------------------
+###Magnus Egerstedt:
+
   Coursera's Control of Mobile Robots Class
   http://users.ece.gatech.edu/~magnus/index_publications.html
 
